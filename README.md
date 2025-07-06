@@ -4,7 +4,7 @@ To identify patterns and trends in road accident data by building an interactive
 
 
 ## Dataset Used
-
+- <a href="https://github.com/DivyaHS26/Road-Accident-Dashboard-in-Tableau/commit/3f34609d0a650e6f101d9e4e49db39c8497f323d">Accident Dataset</a>
 
 ## Questions (KPIs)
 - What is the total number of road accidents recorded?
@@ -32,6 +32,7 @@ The scope is limited to visualization and analysis; prediction or forecasting is
 - Publishing:Finalized the design and shared/exported the dashboard for stakeholders or public viewing via Tableau Public or PDF reports.
 
 ## Dashboard
+![Screenshot](https://github.com/user-attachments/assets/b9a6b6db-4398-4253-9c77-d2ef46afd954)
 
 
 ## Project Insight
